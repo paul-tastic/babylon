@@ -1,0 +1,27 @@
+#headline-row {
+    min-height: 45px !important;
+    border: 1px solid black;
+    justify-content: center;
+    line-height: 45px;
+    margin: 15px;
+}
+
+.input {
+    margin: 3px;
+    width: 20%;
+}
+
+.nested-td {
+    width: 28%;
+    font-size: 0.8rem;
+}
+
+.nested-row .top td {
+    justify-content: center;
+    text-align: center;
+}
+
+.sub-heading {
+    font-size: 0.6rem;
+
+}
